@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios y proyectos desarrollados en Python como pa
 
 ## Contenido
 - **Ejercicio 1:** Calculadora - https://github.com/Palvarezlara/calculadora
-- **Ejercicio 2:** Descripción del ejercicio 2.
+- **Ejercicio 2:** Planilla de trabajadores - https://github.com/Palvarezlara/proyectos-en-python/tree/main/EA3-Ejer._pract_eva3
 - **Proyecto Final:** Descripción del proyecto final.
 
 ## Cómo ejecutar
